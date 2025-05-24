@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Working at Agnion: [agnion.ai](https://agnion.ai) • [github.com/agnion-ai](https://github.com/agnion-ai)
+- Personal GitHub: [github.com/adibaba](https://github.com/adibaba)
+
+
 <!--
 **adrian-agnion/adrian-agnion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
